@@ -1,5 +1,3 @@
-pre>
-
 Personal Portfolio of Felix Collazo Helgeson
 This repository contains the code for my personal portfolio website.
 
@@ -17,4 +15,4 @@ Built With: HTML, Tailwind CSS, and vanilla JavaScript.
 
 You can view the live version of this portfolio at:
 (https://fch-portfolio.vercel.app/)
-</pre>
+
